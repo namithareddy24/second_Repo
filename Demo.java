@@ -1,2 +1,4 @@
-Class[D[D[D[c[C[C[C[C Demo{
+class Demo{
+    int x=20;
+    int y=30;
 }
